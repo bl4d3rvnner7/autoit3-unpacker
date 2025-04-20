@@ -13,9 +13,8 @@ Advanced deobfuscation tool for AutoIt3 scripts, featuring:
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/AutoIt3-Deobfuscator.git
-cd AutoIt3-Deobfuscator
-pip install -r requirements.txt
+git clone https://github.com/bl4d3rvnner7/autoit3-unpacker/
+cd autoit3-unpacker
 ```
 
 ## 🚀 Usage
